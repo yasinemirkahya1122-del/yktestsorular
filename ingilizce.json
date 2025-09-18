@@ -1,0 +1,7 @@
+[
+  {
+    "q": "Örnek soru: 'Apple' kelimesinin Türkçesi nedir?",
+    "options": ["Armut", "Elma", "Portakal"],
+    "answer": "Elma"
+  }
+]
