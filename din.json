@@ -1,7 +1,32 @@
-[
+  [
   {
-    "q": "soru: İslam’ın şartlarından biri aşağıdakilerden hangisidir?",
-    "options": ["Namaz", "Bayram", "Komşuluk"],
-    "answer": "Namaz"
+    "Soru": "Ahmet bir bahçeye çiçek dikiyor. İlk gün 12 çiçek dikti. İkinci gün birinci gün diktiğinin 3 katını dikti. Üçüncü gün bir önceki gün diktiğinin yarısını dikti. Üç günün toplamında kaç çiçek dikmiştir?",
+    "Şıklar": [
+      "42",
+      "54",
+      "66",
+      "72"
+    ],
+    "Doğru cevap": "66"
+  },
+  {
+    "Soru": "Bir otobüs 120 km mesafeyi 2 saatte gidiyor. Otobüsün ortalama hızı kaç km/s'dir?",
+    "Şıklar": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "Doğru cevap": "60"
+  },
+  {
+    "Soru": "Bir üçgenin iç açılarının toplamı kaçtır?",
+    "Şıklar": [
+      "90",
+      "180",
+      "270",
+      "360"
+    ],
+    "Doğru cevap": "180"
   }
-]
+  ]
